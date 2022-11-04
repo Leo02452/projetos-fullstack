@@ -4,6 +4,6 @@
 
 - [API para loja de itens medievais](https://github.com/Leo02452/trybesmith)
 
-- [API para o campeonato brasileiro]
+- [API para o campeonato brasileiro](https://github.com/Leo02452/trybe-futebol-clube)
 
-- [API para loja de carros]
+- [API para loja de carros](https://github.com/Leo02452/car-shop)
