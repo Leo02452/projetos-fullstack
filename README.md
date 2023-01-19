@@ -1,11 +1,17 @@
-# Projetos em NODEjs e Typescript
+# Projetos Fullstack
 
-- [Jogo de RPG](https://github.com/Leo02452/trybers-and-dragons)
+## Node.js e React
 
-- [API para loja de itens medievais](https://github.com/Leo02452/trybesmith)
+### Delivery App
+<strong>Descrição:</strong> Aplicativo de delivery para bebidas criado em grupo em que o usuário pode fazer a compra e acompanhar o status e o vendedor pode preparar e enviar o pedido. Além disso, o administrador pode cadastrar novos vendedores e clientes.
+<br>
+<strong>Link do repositório:</strong> https://github.com/Leo02452/delivery-app
+<br>
+<br>
 
-- [API para o campeonato brasileiro](https://github.com/Leo02452/trybe-futebol-clube)
-
-- [API para loja de carros](https://github.com/Leo02452/car-shop)
-
-- [Rota de Login com SOLID e teste unitário (monitoria como summer de instrução)](https://github.com/Leo02452/monitoria-revisao-solid)
+### Futsal Manager
+<strong>Descrição:</strong> Aplicação para gerenciar um time de futebol e seus jogos, resultados e estatisticas do time e dos atletas.
+<br>
+<strong>Link do repositório:</strong> https://github.com/Leo02452/futsal-manager-backend
+<br>
+<br>
